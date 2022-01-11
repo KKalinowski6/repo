@@ -1,1 +1,2 @@
-print('T')
+def test():
+    return('T')
